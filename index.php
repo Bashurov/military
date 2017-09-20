@@ -11,7 +11,7 @@
 <header>
     <div id="headerInside">
         <div id="logo"></div>
-        <div id="companyName">MILITARY <br> магазин военной амуниции и снаряжения</div>
+        <div id="companyName">MILITARY - магазин военной амуниции и снаряжения</div>
         <div id="navWrap">
             <a href="/">
                 Главная
@@ -29,23 +29,23 @@
     $goods = [
         [
             'id' => 1,
-            'name' => 'Iphone',
+            'name' => 'Снаряжение и омуниция',
             'desc' => 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium',
-            'img' => '/images/goods/iphone.jpg',
+            'img' => '/images/goods/scorpus.jpg',
             'price' => '2000 $'
         ],
         [
             'id' => 2,
-            'name' => 'HTC',
+            'name' => 'Обувь',
             'desc' => 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium',
-            'img' => '/images/goods/htc.jpg',
+            'img' => '/images/goods/shuz.jpg',
             'price' => '1200 $'
         ],
         [
             'id' => 3,
-            'name' => 'Samsung',
+            'name' => 'Одежда',
             'desc' => 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium',
-            'img' => '/images/goods/samsung.jpg',
+            'img' => '/images/goods/top.jpg',
             'price' => '1400 $'
         ],
     ];
@@ -77,7 +77,7 @@
         <div id="contacts">
             <div class="contactWrap">
                 <img src="images/envelope.svg" class="contactIcon">
-                info@brandshop.ru
+                info@armyshop.ru
             </div>
             <div class="contactWrap">
                 <img src="images/phone-call.svg" class="contactIcon">
@@ -85,7 +85,7 @@
             </div>
             <div class="contactWrap">
                 <img src="images/placeholder.svg" class="contactIcon">
-                Москва, пр-т Ленина, д. 1 офис 304
+                Россия, Омск, ул.Ленина, д.2 оф.304
             </div>
         </div>
 
@@ -100,7 +100,7 @@
             <img class="socialItem" src="images/facebook-logo.svg">
         </div>
 
-        <div id="copyrights">&copy; Brand</div>
+        <div id="copyrights">&copy; Military</div>
     </div>
 </footer>
 
